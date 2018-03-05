@@ -19,3 +19,6 @@ C:\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
 C:\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
 C:\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
 C:\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+C:\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CoreCompileInputs.cache
